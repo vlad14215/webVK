@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://vlad14215.github.io/FIlPr/"
+    "url": "https://vlad14215.github.io/webVK/"
   },
   "keywords": [],
   "author": "vlad14215",
   "license": "MIT",
   "bugs": {
-    "url": "https://vlad14215.github.io/webVKgh/"
+    "url": "https://vlad14215.github.io/webVK/"
   },
-  "homepage": "https://vlad14215.github.io/webVKgh/",
+  "homepage": "https://vlad14215.github.io/webVK/",
   "devDependencies": {
     "@babel/core": "^7.6.4",
     "@babel/plugin-proposal-class-properties": "^7.5.5",
