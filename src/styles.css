@@ -70,8 +70,8 @@ font-family: 'Archivo Black', sans-serif;
   padding: 20px;
   display: flex;
   flex-direction: column;
-  justify-content: start;
-  align-items: start;
+  justify-content: flex-start;
+  align-items: flex-start;
   border-top: 2px solid rgb(65, 65, 65);
 }
 .title {
@@ -528,8 +528,8 @@ margin: 0;
   height: 70px;
   display: flex;
   flex-direction: column;
-  justify-content: start;
-  align-items: start;
+  justify-content: flex-start;
+  align-items: flex-start;
 }
 
 .footer-copyright{
